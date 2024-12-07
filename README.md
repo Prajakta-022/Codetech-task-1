@@ -11,4 +11,4 @@ objective-
 3) Feature analysis:
    1)Explore relationships between features (e.g., correlations between sepal and petal dimensions).
    2)Analyze the distributions of each feature (e.g., using histograms, box plots, or density plots).
-   Technologies is in Python:Jupyter Notebook.
+   Technologies is use in Python:Jupyter Notebook.
